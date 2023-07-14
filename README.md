@@ -7,7 +7,7 @@
 ビジュアライザはSiv3Dを用いて作成されています。ビジュアライザを改変したい場合、Siv3Dを導入の上ソースコード(vis.cpp)を入手してください。
 
 
-Visualizer_for_Mac.zip ... Mac版のビジュアライザーです。使用方法は同梱のreadme.txtをお読みください。
+Visualizer_for_Mac.zip ... Mac版のビジュアライザーです。使用方法や起動しない場合の対処法は同梱のreadme.txtをお読みください。
 
 Visualizer_for_Windows.zip ... Windows版のビジュアライザーです。使用方法は同梱のreadme.txtをお読みください。
 
